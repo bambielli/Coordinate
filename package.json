@@ -1,0 +1,22 @@
+{
+  "name": "coordinate",
+  "version": "1.0.0",
+  "description": "A package that implements a coordinate class and a function on its prototype that allows you to find surrounding coordinates in a square matrix of length matrixLen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bambielli/Coordinate.git"
+  },
+  "keywords": [
+    "Coordinate"
+  ],
+  "author": "Brian Ambielli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bambielli/Coordinate/issues"
+  },
+  "homepage": "https://github.com/bambielli/Coordinate#readme"
+}
